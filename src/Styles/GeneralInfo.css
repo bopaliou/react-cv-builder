@@ -1,0 +1,59 @@
+.general-info {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    background-color: #fefefe;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .general-info label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .general-info input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .general-info input:focus {
+    border-color: #4caf50;
+    outline: none;
+  }
+  
+  .general-info button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .general-info button:hover {
+    background-color: #45a049;
+  }
+  
+  .general-info button[type='button'] {
+    background-color: #2196f3;
+  }
+  
+  .general-info button[type='button']:hover {
+    background-color: #1976d2;
+  }
+  
+  .general-info p {
+    margin: 8px 0;
+    font-size: 14px;
+    color: #333;
+  }
+  

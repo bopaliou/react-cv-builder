@@ -1,0 +1,48 @@
+.practical-experience {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    background-color: #f1f1f1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .practical-experience label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .practical-experience input,
+  .practical-experience textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .practical-experience textarea {
+    resize: vertical;
+    min-height: 80px;
+  }
+  
+  .practical-experience button {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .practical-experience button:hover {
+    background-color: #1976d2;
+  }
+  
+  .practical-experience p {
+    margin: 8px 0;
+    font-size: 14px;
+    color: #333;
+  }
+  
